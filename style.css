@@ -1,0 +1,13 @@
+/* stylesheet for portfolio website  */
+
+* {
+  margin: 0%;
+}
+
+body {
+  background-color: blue;
+}
+
+.listlinks {
+  list-style-type: none;
+}
